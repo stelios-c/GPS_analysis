@@ -1,0 +1,58 @@
+Code,Subdivision name (en),Subdivision category,clean_state
+US-AL,Alabama,State,AL
+US-AK,Alaska,State,AK
+US-AZ,Arizona,State,AZ
+US-AR,Arkansas,State,AR
+US-CA,California,State,CA
+US-CO,Colorado,State,CO
+US-CT,Connecticut,State,CT
+US-DE,Delaware,State,DE
+US-FL,Florida,State,FL
+US-GA,Georgia,State,GA
+US-HI,Hawaii,State,HI
+US-ID,Idaho,State,ID
+US-IL,Illinois,State,IL
+US-IN,Indiana,State,IN
+US-IA,Iowa,State,IA
+US-KS,Kansas,State,KS
+US-KY,Kentucky,State,KY
+US-LA,Louisiana,State,LA
+US-ME,Maine,State,ME
+US-MD,Maryland,State,MD
+US-MA,Massachusetts,State,MA
+US-MI,Michigan,State,MI
+US-MN,Minnesota,State,MN
+US-MS,Mississippi,State,MS
+US-MO,Missouri,State,MO
+US-MT,Montana,State,MT
+US-NE,Nebraska,State,NE
+US-NV,Nevada,State,NV
+US-NH,New Hampshire,State,NH
+US-NJ,New Jersey,State,NJ
+US-NM,New Mexico,State,NM
+US-NY,New York,State,NY
+US-NC,North Carolina,State,NC
+US-ND,North Dakota,State,ND
+US-OH,Ohio,State,OH
+US-OK,Oklahoma,State,OK
+US-OR,Oregon,State,OR
+US-PA,Pennsylvania,State,PA
+US-RI,Rhode Island,State,RI
+US-SC,South Carolina,State,SC
+US-SD,South Dakota,State,SD
+US-TN,Tennessee,State,TN
+US-TX,Texas,State,TX
+US-UT,Utah,State,UT
+US-VT,Vermont,State,VT
+US-VA,Virginia,State,VA
+US-WA,Washington,State,WA
+US-WV,West Virginia,State,WV
+US-WI,Wisconsin,State,WI
+US-WY,Wyoming,State,WY
+US-DC,District of Columbia,District,DC
+US-AS,American Samoa,Outlying area,AS
+US-GU,Guam,Outlying area,GU
+US-MP,Northern Mariana Islands,Outlying area,MP
+US-PR,Puerto Rico,Outlying area,PR
+US-UM,United States Minor Outlying Islands,Outlying area,UM
+US-VI,"Virgin Islands, U.S.",Outlying area,VI
