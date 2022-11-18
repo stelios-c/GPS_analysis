@@ -5,9 +5,9 @@ Aims:
 - Extract enough detail so that the dataset can serve as labelling/ground truth for GPS interference detection work.
 ```mermaid
 graph TD;
-    NavCen Website-->List of events ;
-    Wikipedia--> List of two letter codes;
-    Hardcoded UK dataframe--> List of two letter codes;
-    List of events-->Clean List;
-    List of two letter codes-->Clean List;
+    NavCen_Website-->gps_navcen.csv;
+    Wikipedia--> US_states_iso3166.csv;
+    UK_dataframe--> two_letter_codes;
+    gps_navcen.csv-->Clean_List;
+    two_letter_codes-->Clean_List;
  ```
