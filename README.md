@@ -9,6 +9,7 @@ graph TD;
     Wikipedia--> US_states_iso3166.csv;
     UK_dataframe--> two_letter_codes;
     US_states_iso3166.csv--> two_letter_codes;
-    gps_navcen.csv-->Clean_List;
     two_letter_codes-->gps_navcen_2letter;
+    gps_navcen.csv-->Not2letter_common;
+    gps_navcen.csv-->Not2letter_uncommon;
  ```
