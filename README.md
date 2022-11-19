@@ -2,7 +2,7 @@
 Analysis of GPS interruption data in public domain. This is a project I do in my free time, using public datasets processed with JupyterLab on Github Codespaces. It is not related to my current or previous employers.   
 Aims:
 - Clean up data in a way that allows longer term trends, global year on year analysis.
-- Extract enough detail so that the dataset can serve as labelling/ground truth for GPS interference detection work.
+- Extract enough detail so that the dataset can serve as labelling/ground truth for GPS interference detection work.  
 Data Model:  
 ```mermaid
 graph TD;
