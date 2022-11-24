@@ -20,6 +20,6 @@ graph TD;
     two_letter_codes-->gps_navcen_matched_location;
     Sovereign_States.csv-->gps_navcen_matched_location;
     gps_navcen.csv-->gps_navcen_matched_location;
-    gps_navcen.csv-->Not2letter_common;
-    gps_navcen.csv-->Not2letter_uncommon;
+    gps_navcen.csv-->unmatched_common;
+    gps_navcen.csv-->unmatched_uncommon;
  ```
