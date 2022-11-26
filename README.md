@@ -17,6 +17,7 @@ graph TD;
     Wikipedia--> Sovereign_States.csv;
     UK_dataframe--> two_letter_codes;
     US_states_iso3166.csv--> two_letter_codes;
+    US_states_iso3166.csv-->gps_navcen_matched_location;
     two_letter_codes-->gps_navcen_matched_location;
     Sovereign_States.csv-->gps_navcen_matched_location;
     gps_navcen.csv-->gps_navcen_matched_location;
