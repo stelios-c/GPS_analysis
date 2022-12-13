@@ -18,7 +18,7 @@ graph TD;
     UNECE-->UN_LOCODE_detail.csv
     UNECE-->UN_LOCODE.csv
     US_states_iso3166.csv--> two_letter_codes;
-    UK_dataframe--> two_letter_codes;
+    UKUS_dataframe--> two_letter_codes;
     US_states_iso3166.csv-->coalesced_country;
     two_letter_codes-->coalesced_country;
     Sovereign_States.csv-->coalesced_country;
