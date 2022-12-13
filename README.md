@@ -15,10 +15,15 @@ graph TD;
     NavCen_Website-->gps_navcen.csv;
     Wikipedia--> US_states_iso3166.csv;
     Wikipedia--> Sovereign_States.csv;
+    UNECE-->UN_LOCODE_detail.csv
+    UNECE-->UN_LOCODE.csv
     US_states_iso3166.csv--> two_letter_codes;
     UK_dataframe--> two_letter_codes;
     US_states_iso3166.csv-->gps_navcen_matched_location;
     two_letter_codes-->gps_navcen_matched_location;
     Sovereign_States.csv-->gps_navcen_matched_location;
+    UN_LOCODE_detail.csv-->gps_navcen_matched_location;
+    UN_LOCODE.csv-->gps_navcen_matched_location;
     gps_navcen.csv-->gps_navcen_matched_location;
+    
  ```
