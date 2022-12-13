@@ -19,11 +19,11 @@ graph TD;
     UNECE-->UN_LOCODE.csv
     US_states_iso3166.csv--> two_letter_codes;
     UK_dataframe--> two_letter_codes;
-    US_states_iso3166.csv-->gps_disruption_df['coalesced_country'];
-    two_letter_codes-->gps_disruption_df['coalesced_country'];
-    Sovereign_States.csv-->gps_disruption_df['coalesced_country'];
-    UN_LOCODE_detail.csv-->gps_disruption_df['coalesced_country'];
-    UN_LOCODE.csv-->gps_disruption_df['coalesced_country'];
-    gps_navcen.csv-->gps_disruption_df['coalesced_country'];
+    US_states_iso3166.csv-->coalesced_country;
+    two_letter_codes-->coalesced_country;
+    Sovereign_States.csv-->coalesced_country;
+    UN_LOCODE_detail.csv-->coalesced_country;
+    UN_LOCODE.csv-->coalesced_country;
+    gps_navcen.csv-->coalesced_country;
     
  ```
