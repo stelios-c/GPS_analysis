@@ -32,12 +32,12 @@ BQ,"Bonaire, Sint Eustatius and Saba",2010,.bq,"Consists of three Caribbean ""sp
 BR,Brazil,1974,.br,
 BS,Bahamas,1974,.bs,
 BT,Bhutan,1974,.bt,
-BV,Bouvet Island,1974,.bv,Belongs to Norway
+BV,Bouvet Island,1974,.bv,Dependency of Norway
 BW,Botswana,1974,.bw,
-BY,Belarus,1974,.by,Code taken from previous ISO country name: Byelorussian SSR (now assigned ISO 3166-3 code BYAA)  Code assigned as the country was already a UN member since 1945[15]
+BY,Belarus,1974,.by,Code taken from previous ISO country name: Byelorussian SSR (now assigned ISO 3166-3 code BYAA)  Code assigned as the country was already a UN member since 1945[14]
 BZ,Belize,1974,.bz,
 CA,Canada,1974,.ca,
-CC,Cocos (Keeling) Islands,1974,.cc,Belongs to Australia
+CC,Cocos (Keeling) Islands,1974,.cc,External territory of Australia
 CD,"Congo, Democratic Republic of the",1997,.cd,Name changed from Zaire (ZR)
 CF,Central African Republic,1974,.cf,
 CG,Congo,1974,.cg,
@@ -52,7 +52,7 @@ CR,Costa Rica,1974,.cr,
 CU,Cuba,1974,.cu,
 CV,Cabo Verde,1974,.cv,"ISO country name follows UN designation (common name and previous ISO country name: Cape Verde, another previous ISO country name: Cape Verde Islands)"
 CW,Curaçao,2010,.cw,
-CX,Christmas Island,1974,.cx,Belongs to Australia
+CX,Christmas Island,1974,.cx,External territory of Australia
 CY,Cyprus,1974,.cy,
 CZ,Czechia,1993,.cz,Previous ISO country name: Czech Republic
 DE,Germany,1974,.de,"Code taken from name in German: Deutschland  Code used for West Germany before 1990 (previous ISO country name: Germany, Federal Republic of)"
@@ -64,18 +64,18 @@ DZ,Algeria,1974,.dz,"Code taken from name in Arabic الجزائر al-Djazā'ir,
 EC,Ecuador,1974,.ec,
 EE,Estonia,1992,.ee,Code taken from name in Estonian: Eesti
 EG,Egypt,1974,.eg,
-EH,Western Sahara,1974,,Previous ISO country name: Spanish Sahara (code taken from name in Spanish: Sahara español) .eh ccTLD has not been implemented.[16]
+EH,Western Sahara,1974,,Previous ISO country name: Spanish Sahara (code taken from name in Spanish: Sahara español) .eh ccTLD has not been implemented.[15]
 ER,Eritrea,1993,.er,
 ES,Spain,1974,.es,Code taken from name in Spanish: España
 ET,Ethiopia,1974,.et,
 FI,Finland,1974,.fi,
 FJ,Fiji,1974,.fj,
-FK,Falkland Islands (Malvinas),1974,.fk,ISO country name follows UN designation due to the Falkland Islands sovereignty dispute (local common name: Falkland Islands)[17]
+FK,Falkland Islands (Malvinas),1974,.fk,ISO country name follows UN designation due to the Falkland Islands sovereignty dispute (local common name: Falkland Islands)[16]
 FM,Micronesia (Federated States of),1986,.fm,Previous ISO country name: Micronesia
 FO,Faroe Islands,1974,.fo,Code taken from name in Faroese: Føroyar
 FR,France,1974,.fr,Includes Clipperton Island
 GA,Gabon,1974,.ga,
-GB,United Kingdom of Great Britain and Northern Ireland,1974,.gb (.uk),"Includes Akrotiri and Dhekelia (Sovereign Base Areas) Code taken from Great Britain (from official name: United Kingdom of Great Britain and Northern Ireland)[18] Previous ISO country name: United Kingdom .uk is the primary ccTLD of the United Kingdom instead of .gb (see code UK, which is exceptionally reserved)"
+GB,United Kingdom of Great Britain and Northern Ireland,1974,.gb (.uk),"Includes Akrotiri and Dhekelia (Sovereign Base Areas) Code taken from Great Britain (from official name: United Kingdom of Great Britain and Northern Ireland)[17] Previous ISO country name: United Kingdom .uk is the primary ccTLD of the United Kingdom instead of .gb (see code UK, which is exceptionally reserved)"
 GD,Grenada,1974,.gd,
 GE,Georgia,1992,.ge,GE previously represented Gilbert and Ellice Islands
 GF,French Guiana,1974,.gf,Code taken from name in French: Guyane française
@@ -94,7 +94,7 @@ GU,Guam,1974,.gu,
 GW,Guinea-Bissau,1974,.gw,
 GY,Guyana,1974,.gy,
 HK,Hong Kong,1974,.hk,Hong Kong is officially a Special Administrative Region of the People's Republic of China since 1 July 1997
-HM,Heard Island and McDonald Islands,1974,.hm,Belongs to Australia
+HM,Heard Island and McDonald Islands,1974,.hm,External territory of Australia
 HN,Honduras,1974,.hn,
 HR,Croatia,1992,.hr,Code taken from name in Croatian: Hrvatska
 HT,Haiti,1974,.ht,
@@ -161,10 +161,10 @@ MZ,Mozambique,1974,.mz,
 ,Namibia,1974,.na,
 NC,New Caledonia,1974,.nc,
 NE,Niger,1974,.ne,
-NF,Norfolk Island,1974,.nf,Belongs to Australia
+NF,Norfolk Island,1974,.nf,External territory of Australia
 NG,Nigeria,1974,.ng,
 NI,Nicaragua,1974,.ni,
-NL,Netherlands,1974,.nl,"Officially includes the islands Bonaire, Saint Eustatius and Saba, which also have code BQ in ISO 3166-1. Within ISO 3166-2, Aruba (AW), Curaçao (CW), and Sint Maarten (SX) are also coded as subdivisions of NL.[19]"
+NL,"Netherlands, Kingdom of the",1974,.nl,"Officially includes the islands Bonaire, Saint Eustatius and Saba, which also have code BQ in ISO 3166-1. Within ISO 3166-2, Aruba (AW), Curaçao (CW), and Sint Maarten (SX) are also coded as subdivisions of NL.[18]"
 NO,Norway,1974,.no,
 NP,Nepal,1974,.np,
 NR,Nauru,1974,.nr,
@@ -226,11 +226,11 @@ TO,Tonga,1974,.to,
 TR,Türkiye,1974,.tr,Previous ISO country name: Turkey
 TT,Trinidad and Tobago,1974,.tt,
 TV,Tuvalu,1977,.tv,
-TW,"Taiwan, Province of China",1974,.tw,Covers the current jurisdiction of the Republic of China  ISO country name follows UN designation (due to political status of Taiwan within the UN)[18] (common name: Taiwan)
+TW,"Taiwan, Province of China",1974,.tw,Covers the current jurisdiction of the Republic of China  ISO country name follows UN designation (due to political status of Taiwan within the UN)[17] (common name: Taiwan)
 TZ,"Tanzania, United Republic of",1974,.tz,
-UA,Ukraine,1974,.ua,Previous ISO country name: Ukrainian SSR  Code assigned as the country was already a UN member since 1945[15]
+UA,Ukraine,1974,.ua,Previous ISO country name: Ukrainian SSR  Code assigned as the country was already a UN member since 1945[14]
 UG,Uganda,1974,.ug,
-UM,United States Minor Outlying Islands,1986,,"Consists of nine minor insular areas of the United States: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, and Wake Island .um ccTLD was revoked in 2007[20] The United States Department of State uses the following user assigned alpha-2 codes for the nine territories, respectively, XB, XH, XQ, XU, XM, QM, XV, XL, and QW.[21]"
+UM,United States Minor Outlying Islands,1986,,"Consists of nine minor insular areas of the United States: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, and Wake Island .um ccTLD was revoked in 2007[19] The United States Department of State uses the following user assigned alpha-2 codes for the nine territories, respectively, XB, XH, XQ, XU, XM, QM, XV, XL, and QW.[20]"
 US,United States of America,1974,.us,Previous ISO country name: United States
 UY,Uruguay,1974,.uy,
 UZ,Uzbekistan,1992,.uz,
