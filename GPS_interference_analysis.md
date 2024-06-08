@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Global Navigation Satellite Systems (GNSS), of which the United States Global Positioning System (GPS) is the most established, are key to a number of applications. As they depend on weak signals coming to terrestrial receivers from satellites in Medium Earth Orbit (MEO), they are also highly vulnerable to interference. GPS disruptions due to a number of reasons, including interference, are reported by users to the United States Coastguard Navigation centre, which publishes the reports on their website. The Blacket review by the United Kingdom's [Government Office for Science (2018)](#Government-Office-for-Science-(2018)) lists different GPS dependencies and vulnerabilities from a UK perspective.  
+Global Navigation Satellite Systems (GNSS), of which the United States Global Positioning System (GPS) is the most established, are key to a number of applications. As they depend on weak signals coming to terrestrial receivers from satellites in Medium Earth Orbit (MEO), they are also highly vulnerable to interference. The Blacket review by the United Kingdom's [Government Office for Science (2018)](#Government-Office-for-Science-(2018)) lists different GPS dependencies and vulnerabilities from a UK perspective.  
 
 GPS was originally designed for military use, and despite its numerous civilian applications it is also used for a number of modern military systems, particularly for Unmanned Aerial Vehicles (UAV). Therefore, Electronic warfare (EW) techniques such as jamming and spoofing of GPS signals are often employed in conflict zones as a counter measure against UAVs and other GPS equiped systems. 
 
