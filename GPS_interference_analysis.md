@@ -34,7 +34,7 @@ Using [Murrian et al (2021)](#Murrian-MJ,-Narula-L,-Iannucci-PA,-et-al.-(2021)) 
 
 [Gerhard Berz (2022)](#Berz-G.-EUROCONTROL-(2022)) of Eurocontrol comment that the interference locations shown in the 2021 Airbus Skywise map have been stable since 2018 would be consistent with [Murrian et al (2021)](#Murrian-MJ,-Narula-L,-Iannucci-PA,-et-al.-(2021)) regarding Syria, Suez and China but contradicts the emergence of strong interference from Libya in the middle of 2019. 
 
-But [NATO Shipping Centre (2022)](#NATO-Shipping-Centre-(2022)) confirmss the mid 2019 onset. Note that their ellipse centred on Malta showing area affected does not extend down to Libya, but the NATO ellipses should be interpreted as the overlap between areas affected by interference, and busy maritime routes. This would also allow for uniting the less busy area between the three ellipses in the North Eastern Mediterranean, to show the entire triangle between Mersin, Beirut and Limassol as affected by the jammers on or near the Syrian coast.
+But [NATO Shipping Centre (2022)](#NATO-Shipping-Centre-(2022)) confirms the mid 2019 onset. Note that their ellipse centred on Malta showing area affected does not extend down to Libya, but the NATO ellipses should be interpreted as the overlap between areas affected by interference, and busy maritime routes. This would also allow for uniting the less busy area between the three ellipses in the North Eastern Mediterranean, to show the entire triangle between Mersin, Beirut and Limassol as affected by the jammers on or near the Syrian coast.
 
 
 
