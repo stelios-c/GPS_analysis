@@ -1,4 +1,4 @@
-# Analysis of GPS disruptions
+# Discussion of GPS disruptions 2018-2021
 _Stelios Christodoulou, M.Eng_
 ## Introduction
 
