@@ -1,5 +1,5 @@
 # Discussion of GPS disruptions 2018-2021
-_Stelios Christodoulou, M.Eng_
+[_Stelios Christodoulou, M.Eng_](https://github.com/stelios-c)
 ## Introduction
 
 Global Navigation Satellite Systems (GNSS), of which the United States Global Positioning System (GPS) is the most established, are key to a number of applications. As they depend on weak signals coming to terrestrial receivers from satellites in Medium Earth Orbit (MEO), they are also highly vulnerable to interference. The Blacket review by the United Kingdom's [Government Office for Science (2018)](#Government-Office-for-Science-(2018)) lists different GPS dependencies and vulnerabilities from a UK perspective.  
