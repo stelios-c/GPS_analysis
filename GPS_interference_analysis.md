@@ -21,7 +21,7 @@ Theoretically the range of the jammer should be much greater for airborne GNSS r
 
 ## Discussion
 
-Using [Murrian et al (2021)](#Murrian-MJ,-Narula-L,-Iannucci-PA,-et-al.-(2021)) and the [NATO Shipping Centre (2022)](#NATO-Shipping-Centre-(2022)) we can safely group together Libya, Malta and southern Italy as all within range of interference from Libya. While the NATO report is not so unequivocal about Cyprus, Lebanon and South East Turkey all being within range of Syria based jammers, we could also make this assumption. Note we explicitly don't include Istanbul, but include Iskenderun for Turkey. However, [Spire (2023)] results suggest that Syria, Lebanon ("north of Israel") and Turkey should be treated as separate jammer locations. Cyprus could be affected by any combination of the 3, the ports on the south eastern coast are probably more within range of Syria and Lebanon.
+Using [Murrian et al (2021)](#Murrian-MJ,-Narula-L,-Iannucci-PA,-et-al.-(2021)) and the [NATO Shipping Centre (2022)](#NATO-Shipping-Centre-(2022)) we can safely group together Libya, Malta and southern Italy as all within range of interference from Libya. While the NATO report is not so unequivocal about Cyprus, Lebanon and South East Turkey all being within range of Syria based jammers, we could also make this assumption. Note we explicitly don't include Istanbul, but include Iskenderun for Turkey. However, [Spire (2023)]() results suggest that Syria, Lebanon ("north of Israel") and Turkey should be treated as separate jammer locations. Cyprus could be affected by any combination of the 3, the ports on the south eastern coast are probably more within range of Syria and Lebanon.
 
 
 [Perez Marcos et al (2018)](#Pérez-Marcos,-E.,Konovaltsev,-A.,-Caizzone,-S.,-Cuntz,-M.,-Yinusa,-K.,-Elmarissi,-W.-and-Meurer,-M.-(2018)) detect interference in Egypt in September 2017, well before the strengthening of interference from Syria in 2018. This combined with the greater distance from Syria will be the basis of treating reports from Egypt separately to the rest of the Eastern Mediterranean reports.
@@ -76,6 +76,9 @@ First results from three years of GNSS interference monitoring from low Earth or
 
 ##### Pérez Marcos, E.,Konovaltsev, A., Caizzone, S., Cuntz, M., Yinusa, K., Elmarissi, W. and Meurer, M. (2018) 
 [Interference and Spoofing Detection for GNSS Maritime Applications using Direction of Arrival and Conformal Antenna Array](https://elib.dlr.de/127019/1/E2_PerezMarcos_Emilio_final.pdf)
+
+##### Spire (2023)
+[GNSS Interference Monitoring from LEO, NAVISP EL2-117 Final Presentation](https://navisp.esa.int/uploads/files/project_documents/NAVISP%20EL2-117%20Presentation%20Final%20(1).pdf?v=413045)
 
 ##### Trevithick, J. (2018)
 [Russia Implies Drone Swarm Attack On Its Base in Syria Linked to US P-8 Patrol Plane](https://www.thedrive.com/the-war-zone/17527/russia-is-trying-to-link-the-drone-swarm-attack-in-syria-to-a-us-p-8-patrol-plane)
