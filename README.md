@@ -20,8 +20,6 @@ graph TD;
     US_states_iso3166.csv-->coalesced_country;
     two_letter_codes-->coalesced_country;
     Sovereign_States.csv-->coalesced_country;
-    UN_LOCODE_detail.csv-->coalesced_country;
-    UN_LOCODE.csv-->coalesced_country;
     gps_navcen.csv-->coalesced_country;
     
  ```
