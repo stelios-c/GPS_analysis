@@ -4,8 +4,9 @@ Top level is original list in survey first draft
   - Kaliningrad
   - St Petersburg 
 - Black Sea
-  - Crimea
-  - ?
+  - Crimea/ Sea of Azov
+  - Northern Black Sea (towards Ukraine/Russia)
+  - Southern Black Sea (towards Turkey)
 - Mediterranean
   - Western Mediterranean : Spain/Algeria
   - Central Mediterranean : Libya/Malta/Italy
