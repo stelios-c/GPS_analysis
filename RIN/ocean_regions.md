@@ -1,8 +1,20 @@
 Top level is original list in survey first draft
 
+- Arctic
+  - Norway/Svalbard
+  - European Russia: Murmansk to Nova Zemlaya
+  - Siberia
+  - Alaska
+  - Canada
+  - Greenland  
 - Baltic
   - Kaliningrad
   - St Petersburg 
+- UK Coastal Waters
+  - within range of West Freugh (other testing sites?)
+  - English channel
+  - North Sea
+  - Irish Sea
 - Black Sea
   - Crimea/ Sea of Azov
   - Northern Black Sea (towards Ukraine/Russia)
@@ -12,22 +24,21 @@ Top level is original list in survey first draft
   - Central Mediterranean : Libya/Malta/Italy
   - Eastern Mediterranean : Syria/Libanon/Israel/Egypt
 - Red Sea
-  - Egypt, near Suez canal
+  - Egypt, near Suez canal, Sinai, Israel (Eilat)
   - Sudan
   - Aden
-- Persian Gulf/ Straits of Hormuz
+- Persian Gulf
   - Near Iran coast
   - Near Arabian peninsula coast (split by country?)
   - Straits of Hormuz
-- South China Sea
-- UK Coastal Waters
-  - within range of West Freugh
-  - English channel
-  - North Sea
-  - Irish Sea
-- USA Coastal waters
-  - within range of San Clemente
-  - Alaska
+- Pacific coast of Asia
+  - South China Sea
+  - Korea
+  - China
+- Pacific
+  - Galapagos EEZ
   - Hawaii
+- CONUS Coastal waters
+  - within range of San Clemente (other testing sites?)
   - East coast CONUS
   - West coast CONUS  
