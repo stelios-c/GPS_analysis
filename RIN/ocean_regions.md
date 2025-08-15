@@ -1,4 +1,3 @@
-Top level is original list in survey first draft
 
 - Arctic
   - Norway/Svalbard
