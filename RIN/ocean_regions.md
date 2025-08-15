@@ -1,10 +1,32 @@
 Top level is original list in survey first draft
 
 - Baltic
+  - Kaliningrad
+  - St Petersburg 
 - Black Sea
+  - Crimea
+  - ?
 - Mediterranean
+  - Western Mediterranean : Spain/Algeria
+  - Central Mediterranean : Libya/Malta/Italy
+  - Eastern Mediterranean : Syria/Libanon/Israel/Egypt
 - Red Sea
+  - Egypt, near Suez canal
+  - Sudan
+  - Aden
 - Persian Gulf/ Straits of Hormuz
+  - Near Iran coast
+  - Near Arabian peninsula coast (split by country?)
+  - Straits of Hormuz
 - South China Sea
 - UK Coastal Waters
+  - within range of West Freugh
+  - English channel
+  - North Sea
+  - Irish Sea
 - USA Coastal waters
+  - within range of San Clemente
+  - Alaska
+  - Hawaii
+  - East coast CONUS
+  - West coast CONUS  
