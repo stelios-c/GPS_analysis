@@ -30,6 +30,10 @@
   - Near Iran coast
   - Near Arabian peninsula coast (split by country?)
   - Straits of Hormuz
+- Indian Ocean
+  - Near India Pakistan border
+  - Myanmar
+  - other?  
 - Pacific coast of Asia
   - South China Sea
   - Korea
